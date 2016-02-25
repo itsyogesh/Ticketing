@@ -22,8 +22,12 @@
   },
   "homepage": "https://github.com/itsyogesh/ticketing#readme",
   "dependencies": {
+    "body-parser": "^1.15.0",
+    "canvas": "^1.3.10",
+    "crypto": "0.0.3",
     "dotenv": "^2.0.0",
     "express": "^4.13.4",
-    "mongoose": "^4.4.5"
+    "mongoose": "^4.4.5",
+    "qrcode": "^0.4.2"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "name": "ticketing",
+  "version": "1.0.0",
+  "description": "An automated ticketing solution written in nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsyogesh/ticketing.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tickets",
+    "canvas"
+  ],
+  "author": "Yogesh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsyogesh/ticketing/issues"
+  },
+  "homepage": "https://github.com/itsyogesh/ticketing#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.5"
+  }
+}

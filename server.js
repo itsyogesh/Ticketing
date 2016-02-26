@@ -6,7 +6,7 @@ var mongoose = require('mongoose')
 
 require('dotenv').config()
 
-var routes = require('./routes')
+//var routes = require('./routes')
 
 mongoose.connect(process.env.DB_ENDPOINT)
 
